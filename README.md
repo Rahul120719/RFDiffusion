@@ -514,3 +514,4 @@ RFdiffusion builds directly on the architecture and trained parameters of RoseTT
 RFdiffusion is released under an open source BSD License (see LICENSE file). It is free for both non-profit and for-profit use. 
 
 
+# checked
